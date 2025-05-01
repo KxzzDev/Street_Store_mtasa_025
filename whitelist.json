@@ -4,6 +4,11 @@
     {
         "nombre": "ServidorPrincipal",
         "ip": "192.168.1.11"
+    },
+        
+    {
+        "nombre": "ServidorPrincipal2",
+        "ip": "192.168.1.10"
     }
 
     ]
