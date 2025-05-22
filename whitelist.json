@@ -2,8 +2,8 @@
     "servidores": [
         
     {
-        "nombre": "STREET STORE DEV",
-        "ip": "street-store"
+        "nombre": "servername",
+        "ip": "serverip"
     },
 
     ]
