@@ -4,13 +4,5 @@
             "name": "STREET STORE DEV",
             "ip": "testip_192_000_0_00"
         },
-        {
-            "name": "Servidor de Pruebas",
-            "ip": "192.168.1.1"
-        },
-        {
-            "name": "Servidor de Desarrollo",
-            "ip": "10.0.0.1"
-        }
     ]
 }
