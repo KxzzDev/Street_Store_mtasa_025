@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "last_update": "2024-03-21",
+    "authorized_ips": [
+        "testip_192_000_0_00",
+        "192.168.1.1",
+        "10.0.0.1"
+    ],
+    "metadata": {
+        "description": "Lista de IPs autorizadas para el sistema de protección",
+        "maintainer": "KozzDev"
+    }
+}
