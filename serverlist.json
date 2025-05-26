@@ -2,7 +2,11 @@
     "servers": [
         {
             "name": "STREET STORE DEV",
-            "ip": "testip_192_000_0_00"
+            "ip": "192.168.137.152"
+        },
+        {
+            "name": "DOMINICAN GANGSTER RP",
+            "ip": "199.127.60.252"
         },
     ]
 }
